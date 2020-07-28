@@ -25,3 +25,10 @@ Capture webcam video stream, frames from a video file, or a static image
 Extract and enhance relevant image segments with OpenCV
 
 Use Tesseract to extract, export text data for use
+
+# Work 
+# Under 
+# Progress
+  .
+  .
+  # Coming Soon
