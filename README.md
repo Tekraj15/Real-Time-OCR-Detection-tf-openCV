@@ -31,4 +31,4 @@ Use Tesseract to extract, export text data for use
 # Progress
   .
   .
-  # Coming Soon
+  
